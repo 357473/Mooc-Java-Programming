@@ -1,0 +1,26 @@
+#surefire
+#Thu Dec 09 20:29:56 GMT 2021
+classPathUrl.4=C\:\\Users\\Adam\\.m2\\repository\\fi\\helsinki\\cs\\tmc\\edu-test-utils\\0.4.2\\edu-test-utils-0.4.2.jar
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\src\\test\\java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+includes0=**/Test*.java
+reportsDirectory=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\target\\surefire-reports
+tc.0=StoringRecordsTest
+surefireClassPathUrl.0=C\:\\Users\\Adam\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.12.4\\surefire-junit4-2.12.4.jar
+classPathUrl.0=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\target\\test-classes
+classPathUrl.1=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\target\\classes
+classPathUrl.2=C\:\\Users\\Adam\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar
+classPathUrl.3=C\:\\Users\\Adam\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar
+testClassesDirectory=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\target\\test-classes
+useManifestOnlyJar=true
+runStatisticsFile=C\:\\Users\\Adam\\Documents\\NetBeansProjects\\mooc-java-programming-i\\part04-Part04_30.StoringRecords\\.surefire-D5CC73A7F82E844C724FA94368C332A2929189A3
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+failIfNoTests=false
+isTrimStackTrace=true
+surefireClassPathUrl.1=C\:\\Users\\Adam\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.12.4\\surefire-api-2.12.4.jar
+excludes0=**/*$*
+enableAssertions=true
+childDelegation=false
+useSystemClassLoader=true
